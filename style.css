@@ -1,0 +1,17 @@
+* {
+    margin: 10px;
+}
+
+.image-slider {
+    display: flex;
+    justify-content: center;
+    border: 1px solid brown;
+    height: auto;
+    width: 1000px;
+    margin: auto;
+}
+
+.image {
+    height: 250px;
+    width: 400px;
+}
